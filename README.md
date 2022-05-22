@@ -1,3 +1,3 @@
 # tutorial
-almafa
+korte almafa
 diofa
